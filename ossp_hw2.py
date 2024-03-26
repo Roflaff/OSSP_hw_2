@@ -4,6 +4,8 @@
 
 name = input("이름을 입력 : ")
 num = input("학번을 입력 :")
+team = input("팀 이름을 입력 :")
 
 print("이름 : " + name)
 print("학번 : " + num)
+print("팀 이름 : " + team)
